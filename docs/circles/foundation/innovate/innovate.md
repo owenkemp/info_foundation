@@ -13,7 +13,11 @@
 ...
 
 ## Strategy
-
+additional strategy: establish a Young Programmers competition and award (e.g. The ThreeFold Foundation Sustainable Computing Award ) with XX TF tokens for the winning team plus 1year free residency in our incubator. Search for sponsors to support the programme including the Island's governemnt
+plus:
+Female Digital Business Empowerment programme and laboratory
+plus:
+Fund raising for a Tokonomy Incubator Fund and a Female Empowerment Fund to fuel above programme 
 ...
 
 ## Timing
